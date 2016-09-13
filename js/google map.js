@@ -10,7 +10,7 @@ function init() {
 
 function loadScript() {
   var script = document.createElement('script');     // Create <script> element
-  script.src = 'http://maps.googleapis.com/maps/api/js?sensor=false&callback=init';
+  script.src = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBm-I4nLA9k6iRbxUcSJ0u3IWzmTpvmC_U&sensor=false&callback=init';
   document.body.appendChild(script);                 // Add element to page
 }
 
