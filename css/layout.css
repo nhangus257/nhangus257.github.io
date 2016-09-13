@@ -460,18 +460,12 @@ ul#blog-filter li.current a {
 	float: left;
 }
 
-#contact .map {
-	width: 523px;
-	float: left;
-}
+#map {
+        width: 590px;
+        height: 330px;
+        margin: 0px;
+      }
 
-#contact .map strong {
-	margin-right: 7px;
-}
-
-#contact .map span {
-	margin-right: 20px;
-}
 
 #contact input {
 	width: 300px;
